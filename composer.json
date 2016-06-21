@@ -1,12 +1,12 @@
 {
-    "name": "flechamobile/yii2-locale-array",
-    "description": "Returns an array of locale",
+    "name": "flechamobile/yii2-amountformat",
+    "description": "This function takes a string which represents a money amount with max 2 decimals and returns a number in standard format xxxx.xx",
     "type": "yii2-extension",
     "keywords": ["locale","yii2","extension"],
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/arsolutions/yii2-locale-array/issues",
-        "source": "https://github.com/arsolutions/yii2-locale-array"
+        "issues": "https://github.com/arsolutions/yii2-amountformat/issues",
+        "source": "https://github.com/arsolutions/yii2-amountformat"
     },
     "minimum-stability": "dev",
     "require": {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "flechamobile\\localearray\\": ""
+            "flechamobile\\amountformat\\": ""
         }
     }
 }
