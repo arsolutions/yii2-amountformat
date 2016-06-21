@@ -1,5 +1,5 @@
 <?php
-namespace flechamobile\Amountformat;
+namespace flechamobile\amountformat;
 
 class Amountformat
 {
