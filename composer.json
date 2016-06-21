@@ -1,0 +1,20 @@
+{
+    "name": "flechamobile/yii2-locale-array",
+    "description": "Returns an array of locale",
+    "type": "yii2-extension",
+    "keywords": ["locale","yii2","extension"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/arsolutions/yii2-locale-array/issues",
+        "source": "https://github.com/arsolutions/yii2-locale-array"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "flechamobile\\localearray\\": ""
+        }
+    }
+}
